@@ -2,8 +2,8 @@
 ## Problem Statement: Sales management has gained importance to meet increasing competition and the need for improved methods of distribution to reduce cost and to increase profits. Sales management today is the most important function in a commercial and business enterprise.
 
 ## Project Code: https://github.com/Gkvora/Amazon_Sales_Data_Analysis/blob/main/.ipynb_checkpoints/Amazon_Sale-checkpoint.ipynb
-
-![image](https://github.com/Gkvora/Amazon_Sales_Data_Analysis/assets/117502951/ab002114-bebd-46bb-bd80-911f4ab7cfee)
+## Datasets : https://drive.google.com/file/d/1G1fygvjMEwef17dedfnqt9we8y3QSrNB/view?usp=sharing
+## Dashboard : 
 ![Amazon Sales_Dashboard-1](https://github.com/Gkvora/Amazon_Sales_Data_Analysis/assets/117502951/f120ba7d-b81e-4bc0-88fd-f0c63ee5d65f)
 ![Amazon Sales_Dashboard-2](https://github.com/Gkvora/Amazon_Sales_Data_Analysis/assets/117502951/098c58b3-11cc-4289-bc16-b76003d6c7e3)
 ![Amazon Sales_Dashboard-3](https://github.com/Gkvora/Amazon_Sales_Data_Analysis/assets/117502951/2022526f-d46f-47b4-8775-18b027c3a585)
